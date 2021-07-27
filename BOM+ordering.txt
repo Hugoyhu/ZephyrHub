@@ -1,0 +1,15 @@
+BOM:
+
+4x USB A connectors; LCSC; https://lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-910-151A2022S10100_C39429.html
+1x SL2.1A; LCSC; https://lcsc.com/product-detail/USB-ICs_CoreChips-SL2-1A_C192893.html
+1x GCT USB-4085; Mouser; https://www.mouser.com/ProductDetail/GCT/USB4085-GF-A?qs=%2Fha2pyFaduiMo2CPF%2F8%2Fw3X%2FgwGRS5WjEZYcwxQv3%252B2Q6V6nNdtxuA%3D%3D
+2x 5.1K 0805 Resistor; Generic
+2x 10uF 0805 MLCC Capacitor; Generic
+4x 1uF 0805 MLCC Capacitor; Generic
+5x 100nF 0805 MLCC Capacitor; Generic
+
+Ordering information:
+
+1.2mm FR-4 PCB, double sided, 1oz copper, Matte Black Soldermask, ENIG finish, 94.18mm x 22.54mm
+
+Please use RoHS compliant parts, PCBs, and equipment.
